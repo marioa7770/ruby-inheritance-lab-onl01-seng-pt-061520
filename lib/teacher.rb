@@ -4,6 +4,8 @@ class Teacher < User
 
 def teach
   
-  Knowldege
+  Knowldege.sample
   
+end
+
 end
