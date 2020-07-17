@@ -6,6 +6,5 @@ def teach
   
   Knowledge.sample
   
-end
-
+  end
 end
