@@ -4,4 +4,6 @@ class Teacher < User
 
 def teach
   
+  Knowldege
+  
 end
